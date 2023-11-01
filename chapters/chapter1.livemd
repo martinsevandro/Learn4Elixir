@@ -992,8 +992,8 @@ end
 ```
 
 ```elixir
-%Jogador{nome: "ef", idade: 3, cidade: "ny"}
-```
+%Jogador{nome: "ef", idade: 3, cidade: "nyc"}
+``` 
 
 > Resolva esse erro passando os campos que são necessários na célula acima.
 
